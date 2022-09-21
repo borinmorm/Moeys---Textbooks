@@ -128,8 +128,8 @@ body {
         margin: 0;
     }
 
-    .container>h1 {
-        font-size: 20px;
+    .container> a > h1 {
+        font-size: 1.6rem;
     }
 
     .container>.btn {
