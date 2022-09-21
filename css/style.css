@@ -153,4 +153,8 @@ body {
         width: 230px;
         margin: 0.5rem 2rem;
     }
+    
+    .container>.books>.book-grid>a>img:hover {
+        transform: none;
+    }
 }
